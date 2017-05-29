@@ -1,0 +1,11 @@
+import RPi.GPIO as GPIO
+GPIO.setmode(GPIO.BCM)
+GPIO.setwarnings(False)
+GPIO.setup(21,GPIO.OUT)
+GPIO.setup(22,GPIO.OUT)
+GPIO.setup(23,GPIO.OUT)
+GPIO.setup(24,GPIO.OUT)
+GPIO.output(21,GPIO.HIGH)
+GPIO.output(22,GPIO.HIGH)
+GPIO.output(23,GPIO.HIGH)
+GPIO.output(24,GPIO.HIGH)
