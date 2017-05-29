@@ -1,6 +1,10 @@
 ﻿import picamera
 from time import sleep
 
+/*
+Usage: python picamera_work_001.py
+*/
+
 camera = picamera.PiCamera()
 
 camera.start_preview()
