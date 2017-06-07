@@ -1,7 +1,3 @@
-# PiHardware_Works
-- PiCamera_Works
-- - picamera_work_001.py
-- Turta Relay Hat
 # PiSoftware_Works
 - Working With Operating System
 - - Raspbian OS
@@ -18,3 +14,7 @@
 - - HDD Detection
 - - Multi Parameter
 - - Urllib
+# PiHardware_Works
+- PiCamera_Works
+- - picamera_work_001.py
+- Turta Relay Hat
