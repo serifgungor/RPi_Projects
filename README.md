@@ -14,6 +14,7 @@
 - - HDD Detection
 - - Multi Parameter
 - - Urllib
+- - Access Point (Wi-Fi)
 # PiHardware_Works
 - PiCamera_Works
 - - picamera_work_001.py
